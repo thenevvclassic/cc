@@ -1,4 +1,4 @@
-# cc-tutorial
+# cc
 ülkemizdeki "bazı türeme veletler"in gazına gelerek cc 
 yapmamalısınız. bunu kendiniz kendinizin gazıyla yapmalısınız.
 tek başınıza olmalısınız. eğer kendinizi ve bilgilerinizi
